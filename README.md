@@ -1,2 +1,2 @@
 # nlw-proffy
-Repositório criado para a aplicação Proffy da Next Level Week #02 da RocketSeat
+Repositório criado para aplicação Proffy da next level week #02 da Rocketseat.
